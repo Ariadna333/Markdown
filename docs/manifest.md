@@ -46,3 +46,6 @@ El codi font s'organitza seguint una estructura de paquets. És recomanable util
 | `data/` | Repositoris, fonts de dades locals (Room) i remotes (Retrofit). |
 | `ui/` | Pantalles, activitats, fragments i components de Compose/Layouts. |
 | `viewmodel/` | Lògica de negoci i gestió de l'estat de la interfície. |
+
+---
+**[Volver al Índice Principal](index.md)**
