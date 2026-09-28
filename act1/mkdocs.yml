@@ -1,0 +1,47 @@
+site_name: Documentació d'un Projecte Android
+site_description: Guia de l'estructura, Gradle, Manifest i Recursos en Android.
+site_author: Desenvolupador Android
+
+theme:
+  name: material
+  language: ca
+  palette:
+    # Mode clar
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Canviar a mode fosc
+    # Mode fosc
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Canviar a mode clar
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+nav:
+  - Inici: index.md
+  - Estructura i Gradle: 01-gradle-i-estructura.md
+  - Codi Font i Manifest: 02-codi-i-manifest.md
+  - Recursos i UI: 03-recursos-i-interficie.md
