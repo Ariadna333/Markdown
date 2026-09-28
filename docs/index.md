@@ -12,13 +12,13 @@ En aquesta guia aprendràs a:
 2. Organitzar el **codi font** en Kotlin/Java i configurar l'**AndroidManifest.xml**.
 3. Gestionar els **recursos multimèdia**, matrius de text i layouts visualitzables.
 
-## Seccions de la Documentació
+## Secciones de la Documentación
 
-Pots accedir directament a qualsevol de les seccions des dels següents enllaços:
+Puedes acceder directamente a cada sección desde los siguientes enlaces:
 
-* **[1. Gradle i Estructura del Projecte](estructura.md)**: Configuració de `build.gradle.kts` i l'estructura general de directoris.
-* **[2. Codi Font i Android Manifest](manifest.md)**: Organització del codi en Kotlin/Java i l'arxiu `AndroidManifest.xml`.
-* **[3. Recursos i Interfície d'Usuari](interficie.md)**: Gestió de la carpeta `res/`, fitxers XML de layout, cadenes de text i valors.
+* **[1. Gradle y Estructura del Proyecto](gradle.md)**
+* **[2. Código Fuente y Android Manifest](manifest.md)**
+* **[3. Recursos e Interfaz de Usuario](interficie.md)**
 ---
 
  Per a més informació sobre les millors pràctiques, pots consultar la [Documentació Oficial d'Android](https://developer.android.com/).
