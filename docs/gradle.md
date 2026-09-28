@@ -56,3 +56,6 @@ Pots executar les següents instruccions des de la terminal per a compilar i val
 * Netejar el projecte: ` ./gradlew clean `
 * Compilar la versió de desenvolupament: ` ./gradlew assembleDebug `
 * Executar les proves unitàries: ` ./gradlew test `
+
+---
+**[Volver al Índice Principal](index.md)**
