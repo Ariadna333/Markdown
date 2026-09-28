@@ -30,3 +30,6 @@ Tots els fitxers no executables (imatges, dissenys d'interfície, cadenes de tex
   ` val text = getString(R.string.welcome_message) `
 * Des d'un fitxer **XML**:
   ` android:text="@string/welcome_message" `
+
+  ---
+  **[Volver al Índice Principal](index.md)**
