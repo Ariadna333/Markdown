@@ -1,6 +1,6 @@
 # Guia d'Estructura d'un Projecte Android
 
-Benvingut/da a la documentació oficial sobre l'estructura interna i components fonamentals d'una aplicació Android. Aquest document serveix com a *guia de referència* per a comprendre com s'organitzen els fitxers de configuració, el codi font i els recursos d'interfície.
+Benvinguts a la documentació sobre l'estructura interna i components fonamentals d'una aplicació Android. Aquest document serveix com a guia per a comprendre com s'organitzen els fitxers de configuració, el codi font i els recursos d'interfície.
 
 ![Logotip oficial d'Android]([https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot_%282014-2019%29.svg](https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original))
 
